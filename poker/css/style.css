@@ -1,0 +1,78 @@
+@charset "utf-8";
+.cgamerules {
+	overflow:hidden;
+	position:absolute;
+	display:none;
+	border:8px solid rgba(49, 77, 49, 0.86);
+	background-color:#4B8B51;
+	overflow:hidden;
+}
+.cgamerulesin {
+	background-color: #DDDDDD;
+	text-align:justify;
+	overflow:scroll;
+	overflow-x:hidden;
+	overflow-y:scroll;
+}
+.ctgrh {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:18px;
+	line-height:40px;
+	color:#000000;
+	text-align:center;
+}
+.ctgr2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:13px;
+	line-height: 18px;
+	color:#000000;
+	text-indent:16px;
+	text-align:justify;
+	margin-bottom:10px;
+	margin-top:10px;
+}
+.ctgr2 strong {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:13px;
+	line-height: 18px;
+	color:#006600;
+	text-align:justify;
+}
+.ctgr3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:13px;
+	line-height: 15px;
+	color:#000000;
+	text-indent:16px;
+	text-align:left;
+}
+.ctgr3 strong {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:13px;
+	line-height: 15px;
+	color:#006600;
+	text-align:left;
+}
+.ctgrh2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:15px;
+	line-height: 20px;
+	color:#000000;
+	text-indent:16px;
+	text-align:justify;
+	text-decoration:underline;
+	margin-bottom:10px;
+	margin-top:10px;
+}
+.ctable1td {
+	border:1px solid #999999;
+	height:36px;
+	padding-left:4px;
+	padding-right:4px;
+};
